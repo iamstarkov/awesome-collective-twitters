@@ -13,6 +13,8 @@ Inspired by the [awesome][awesome-url] list thing.
 * [@rubyunderhood](https://twitter.com/rubyunderhood) — ruby and backend
 * [@backendsecret](https://twitter.com/backendsecret) — backend
 * [@cssunderhood](https://twitter.com/cssunderhood) — html and css
+* [@abroadunderhood](https://twitter.com/abroadunderhood) — relocation to other country
+* [@elixirunderhood](https://twitter.com/elixirunderhood) — elixir, erlang and backend
 
 [awesome-url]: https://github.com/sindresorhus/awesome
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
