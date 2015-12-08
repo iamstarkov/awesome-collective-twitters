@@ -16,6 +16,7 @@ Inspired by the [awesome][awesome-url] list thing.
 * [@abroadunderhood](https://twitter.com/abroadunderhood) — relocation to other country
 * [@elixirunderhood](https://twitter.com/elixirunderhood) — elixir, erlang and backend
 * [@iamreadingstuff](https://twitter.com/iamreadingstuff) — books and reading
+* [@pasunderhood](https://twitter.com/pasunderhood) — programming in school and university
 
 [awesome-url]: https://github.com/sindresorhus/awesome
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
