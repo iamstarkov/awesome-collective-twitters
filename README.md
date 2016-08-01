@@ -16,6 +16,7 @@ Inspired by the [awesome][awesome-url] list thing.
 * [@abroadunderhood](https://twitter.com/abroadunderhood) — relocation to other country
 * [@spbunderhood](https://twitter.com/spbunderhood) — about Saint Petersburg
 * [@sexsecrethood](https://twitter.com/sexsecrethood) — nsfw
+* [@ceounderhood](https://twitter.com/ceounderhood) — CEO and management
 
 [awesome-url]: https://github.com/sindresorhus/awesome
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
