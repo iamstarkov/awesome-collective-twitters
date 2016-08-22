@@ -18,7 +18,7 @@ Inspired by the [awesome][awesome-url] list thing.
 * [@sexsecrethood](https://twitter.com/sexsecrethood) — nsfw
 * [@ceounderhood](https://twitter.com/ceounderhood) — CEO and management
 * [@gdunderhood](https://twitter.com/gdunderhood) — game design and game designers
-* [@catunderhood](https://twitter.com/catunderhood) - cats
+* [@catunderhood](https://twitter.com/catunderhood) — cats
 
 [awesome-url]: https://github.com/sindresorhus/awesome
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
