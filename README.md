@@ -20,5 +20,8 @@ Inspired by the [awesome][awesome-url] list thing.
 * [@gdunderhood](https://twitter.com/gdunderhood) — game design and game designers
 * [@catunderhood](https://twitter.com/catunderhood) — cats
 
+# International collective twitters
+* [@localsourcenl](https://twitter.com/localsourcenl) — NL based developers, any tech topics allowed
+
 [awesome-url]: https://github.com/sindresorhus/awesome
 [awesome-image]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
