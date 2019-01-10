@@ -13,7 +13,7 @@ Inspired by the [awesome][awesome-url] list thing.
 * [@rubyunderhood](https://twitter.com/rubyunderhood) — ruby and backend
 * [@backendsecret](https://twitter.com/backendsecret) — backend
 * [@cssunderhood](https://twitter.com/cssunderhood) — html and css
-* [@abroadunderhood](https://twitter.com/abroadunderhood) — relocation to other country
+* [@abroadunderhood](https://twitter.com/abroadunderhood) — relocation to another country
 * [@spbunderhood](https://twitter.com/spbunderhood) — about Saint Petersburg
 * [@sexsecrethood](https://twitter.com/sexsecrethood) — nsfw
 * [@ceounderhood](https://twitter.com/ceounderhood) — CEO and management
