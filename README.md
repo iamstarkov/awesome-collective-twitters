@@ -19,6 +19,7 @@ Inspired by the [awesome][awesome-url] list thing.
 * [@ceounderhood](https://twitter.com/ceounderhood) — CEO and management
 * [@gdunderhood](https://twitter.com/gdunderhood) — game design and game designers
 * [@catunderhood](https://twitter.com/catunderhood) — cats
+* [@mobileunderhood](https://twitter.com/mobileunderhood) – mobile app development
 
 # International collective twitters
 * [@localsourcenl](https://twitter.com/localsourcenl) — NL based developers, any tech topics allowed
