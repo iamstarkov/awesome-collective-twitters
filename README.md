@@ -20,6 +20,7 @@ Inspired by the [awesome][awesome-url] list thing.
 * [@gdunderhood](https://twitter.com/gdunderhood) — game design and game designers
 * [@catunderhood](https://twitter.com/catunderhood) — cats
 * [@mobileunderhood](https://twitter.com/mobileunderhood) – mobile app development
+* [@dsunderhood](https://twitter.com/dsunderhood) – data science and machine learning
 
 # International collective twitters
 * [@localsourcenl](https://twitter.com/localsourcenl) — NL based developers, any tech topics allowed
