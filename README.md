@@ -21,6 +21,7 @@ Inspired by the [awesome][awesome-url] list thing.
 * [@catunderhood](https://twitter.com/catunderhood) — cats
 * [@mobileunderhood](https://twitter.com/mobileunderhood) – mobile app development
 * [@dsunderhood](https://twitter.com/dsunderhood) – data science and machine learning
+* [@deunderhood](https://twitter.com/deunderhood) - data engineering
 
 # International collective twitters
 * [@localsourcenl](https://twitter.com/localsourcenl) — NL based developers, any tech topics allowed
